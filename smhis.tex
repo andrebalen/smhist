@@ -1,11 +1,15 @@
 \documentclass[a4paper]{report}
 \usepackage[brazil]{babel}
 \usepackage{graphicx}
+\usepackage{imakeidx}
+\makeindex[columns=3, title=keywords, intoc]
 
 \title{Verde e Brutall}
 \author{el comodin - smvb}
 \date{ agosto 2017}
- 
+
+\renewcommand*\contentsname{idx} 
+
 \begin{document}
  
 \maketitle
@@ -14,28 +18,28 @@
 
 \addcontentsline{toc}{section}{o verso}
 \section*{janela aberta}
-Essa \'e a saga de um encontro com a maquina, escrita por um motorista, e narrada por um autom\'ovel 
-fabricado no brasil, desenhado por uma garota, filha de um empresario carioca, que admninistrou a f\'abrica de
+Essa \'e a saga\index{saga} de um encontro com a maquina, escrita por um motorista, e narrada por um autom\'ovel 
+fabricado no brasil, desenhado por uma garota, filha de um empresario carioca, que administrou a f\'abrica de
  implementos agricolas e ferroviarios em Entre Rios.
 
-A saga brasilis da injambra e do espirito criativo aliada a emo\c{c}\~ao
+A saga brasilis da injambra e do espirito criativo\index{criativo} aliada a emo\c{c}\~ao
 
 Devido aos diversos acontecimentos, que ao longo do tempo vivenciei, tive a ideia de 
 registrar as coisas mais interessantes pois sei que daqui pra frente vai ser cada vez mais dif\'icil algu\'em vicenciar,
 tais acontecimentos, tanto pela modernidade e complexidade gradual dos meios de transporte dispon\'iveis, quanto pela propria
 natureza humana de querer sempre facilitar, abstrair e se afastar o m\'aximo possivel de saber como as coisas funcionam,
-afastando-se, cada vez mais, da aventura e do instinto.
+afastando-se, cada vez mais, da aventura e do instinto\index{instinto}.
 
-Pra mim \'e isso que significa um autom\'ovel antigo, afastar um passo do materialismo, da moda, da preocupa\c{c}\~ao natural de nossos dias
+Pra mim, \'e isso que significa um autom\'ovel antigo, afastar um passo do materialismo, da moda, da preocupa\c{c}\~ao natural de nossos dias
 e aproximar um passo do natural, do divertido, do instinto e de tudo que da gra\c{c}a a vida, a aventura, a emo\c{c}\~ao.
 
-\'E disso que se trata esse livro, o prazer da vida contado por uma maquina de 6 cilindros, 4 rodas e um cora\c{c}\~ao.
+\'E disso que se trata esse livro, o prazer da vida contado por uma maquina de 6 cilindros\index{6 cilindros}, 4 rodas e um cora\c{c}\~ao.
 
 Agrade\c{c}o a todos os amigos(as) que fizeram parte desta aventura, e desde j\'a dedico esta obra a todos voc\^es.
 
 \addcontentsline{toc}{section}{descoberta}
 \section*{A descoberta}
-Nos anos 80, quando eu tinha meus 11 anos, havia uma santa matilde branco perolada na minha cidade,
+Nos anos 80, quando eu tinha meus 11 anos, havia uma santa matilde\index{santa matilde} branco perolada na minha cidade,
 eu passava por ela algumas vezes, indo ou voltando da escola, sempre achei o carro mais bacana de todos.
 
 \addcontentsline{toc}{figure}{sm branco convers\'ivel}
@@ -90,4 +94,5 @@ Era verde, assim como seu interior, perfeita, parecia tudo ok quando vimos, exce
 \section*{prot\'otipo e ideias soltas}
 Uma coisa que eu notei \'e q me senti livre para criar pois sabendo como funciona eu facilmente posso adaptar algo e nao ficar na m\~ao
 
+\printindex
 \end{document}
