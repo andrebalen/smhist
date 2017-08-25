@@ -10,4 +10,4 @@ git:
 	git push -u origin master
 
 clean:
-	rm -f *.log *.aux
+	rm -f *.log *.aux *.toc
