@@ -3,6 +3,9 @@ all: pdf
 
 pdf: clean
 	texi2pdf smhis.tex
+	texi2pdf smhis.tex
+	texi2pdf smhis.tex
+	texi2pdf smhis.tex
 	say pdf gerado
 
 git: clean
