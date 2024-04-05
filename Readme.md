@@ -7,7 +7,7 @@
 # smhist : green and brutal 
 A book about my 6cc machine, written in ptBr with Latex, an old form to write, like my SM
 
-## 
+<img src="https://github.com/andrebalen/smhist/blob/master/morroFodaSm.jpg" alt="morrostock adventurez" align="left" />
 
 ** grateful for your interest **
 
