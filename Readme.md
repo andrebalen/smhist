@@ -14,3 +14,5 @@ A book about my 6cc machine, written in ptBr with Latex, an old form to write, l
 
 
 <img src="https://github.com/andrebalen/smhist/blob/master/morroFodaSm.jpg" alt="morrostock 2 irmaos" width="200px" align="left" />
+
+<img src="https://github.com/andrebalen/smhist/blob/master/capa-sm.jpg" alt="publi original" width="300px" align="right" />
