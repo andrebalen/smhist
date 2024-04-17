@@ -1,8 +1,8 @@
+### A Santa matilde eh o unico automovel que ganhou uma representacao em ascii-art
 
-<img src="https://github.com/andrebalen/smhist/blob/master/logo.jpeg" alt="interior sm 1987" align="right" />
+<pre>     ** |OO|======|OO|\ **  </pre>
 
-    ** |OO|======|OO|\ **
-
+<img src="https://github.com/andrebalen/smhist/blob/master/logo.jpeg" alt="interior sm 1987" align="right" width="200px" />
 ### smhist : green and brutal 
 A book about my 6cc machine, written in ptBr with Latex, an old form to write, like my SM
 
@@ -13,4 +13,4 @@ A book about my 6cc machine, written in ptBr with Latex, an old form to write, l
 ** ad infinitum, et ultra **
 
 
-<img src="https://github.com/andrebalen/smhist/blob/master/morroFodaSm.jpg" alt="interior sm 1987" width="200px" align="left" />
+<img src="https://github.com/andrebalen/smhist/blob/master/morroFodaSm.jpg" alt="morrostock 2 irmaos" width="200px" align="left" />
